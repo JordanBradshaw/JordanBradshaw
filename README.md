@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 <!--
 **JordanBradshaw/JordanBradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```
- __      __          ___                                        
-/\ \  __/\ \        /\_ \                                       
-\ \ \/\ \ \ \     __\//\ \     ___    ___     ___ ___      __   
- \ \ \ \ \ \ \  /'__`\\ \ \   /'___\ / __`\ /' __` __`\  /'__`\ 
-  \ \ \_/ \_\ \/\  __/ \_\ \_/\ \__//\ \L\ \/\ \/\ \/\ \/\  __/ 
-   \ `\___x___/\ \____\/\____\ \____\ \____/\ \_\ \_\ \_\ \____\
-    '\/__//__/  \/____/\/____/\/____/\/___/  \/_/\/_/\/_/\/____/
+ __        __     _                              
+ \ \      / /___ | |  ___  ___   _ __ ___    ___ 
+  \ \ /\ / // _ \| | / __|/ _ \ | '_ ` _ \  / _ \
+   \ V  V /|  __/| || (__| (_) || | | | | ||  __/
+    \_/\_/  \___||_| \___|\___/ |_| |_| |_| \___|           
 ```
     
 
 [![JordanBradshaw's github stats](https://github-readme-stats.vercel.app/api?username=jordanbradshaw&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=issues,contribs)](https://github.com/jordanbradshaw/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbradshaw&layout=compact&theme=dark&langs_count=8)](https://github.com/jordanbradshaw/github-readme-stats)
+##Connect with me
+
+![https://raw.githubusercontent.com/JordanBradshaw/JordanBradshaw/8a50e203acd9543577ced52fcce00197b1e6b9e7/includes/Linkedin.svg](https://www.linkedin.com/in/jordanbradshaw88/)
