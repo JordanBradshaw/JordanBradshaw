@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </br>
 ###Connect with me
 
-[!(https://raw.githubusercontent.com/JordanBradshaw/JordanBradshaw/8a50e203acd9543577ced52fcce00197b1e6b9e7/includes/Linkedin.svg)(https://www.linkedin.com/in/jordanbradshaw88/)]
+[![LinkdIn](https://raw.githubusercontent.com/JordanBradshaw/JordanBradshaw/8a50e203acd9543577ced52fcce00197b1e6b9e7/includes/Linkedin.svg)(https://www.linkedin.com/in/jordanbradshaw88/)]
