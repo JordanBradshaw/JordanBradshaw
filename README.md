@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```
     
 ![JordanBradshaw's github stats](https://github-readme-stats.vercel.app/api?username=jordanbradshaw&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=issues,contribs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbradshaw&layout=compact&theme=dark&langs_count=8&exclude_repo=COMP322)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbradshaw&layout=compact&theme=dark&langs_count=8&exclude_repo=COMP322,COMP484,COMP482)
 </br>
 <h2>Connect with me</h2>
 
