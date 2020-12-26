@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 ```
     
 
-[![JordanBradshaw's github stats](https://github-readme-stats.vercel.app/api?username=jordanbradshaw&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=issues,contribs)](https://github.com/jordanbradshaw/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbradshaw&layout=compact&theme=dark&langs_count=8)](https://github.com/jordanbradshaw/github-readme-stats)
-##Connect with me
+[![JordanBradshaw's github stats](https://github-readme-stats.vercel.app/api?username=jordanbradshaw&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=issues,contribs)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanbradshaw&layout=compact&theme=dark&langs_count=8)
+</br>
+###Connect with me
 
-![https://raw.githubusercontent.com/JordanBradshaw/JordanBradshaw/8a50e203acd9543577ced52fcce00197b1e6b9e7/includes/Linkedin.svg](https://www.linkedin.com/in/jordanbradshaw88/)
+[![https://raw.githubusercontent.com/JordanBradshaw/JordanBradshaw/8a50e203acd9543577ced52fcce00197b1e6b9e7/includes/Linkedin.svg](https://www.linkedin.com/in/jordanbradshaw88/)]
